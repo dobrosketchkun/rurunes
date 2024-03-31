@@ -1,4 +1,4 @@
-RU / [ᚱᚢ](https://github.com/dobrosketchkun/rukor/blob/main/README_RUN.md) 
+RU / [ᚱᚢ](https://github.com/dobrosketchkun/rurunes/blob/main/README_RUN.md) 
 
 
 Этот репозиторий содержит продолжение экспериментов с письменностью русского языка, как например [rulat](https://github.com/dobrosketchkun/rulatwiki), [abominoto sans](https://github.com/dobrosketchkun/Abominoto-Sans) а также [rukor](https://github.com/dobrosketchkun/rukor).

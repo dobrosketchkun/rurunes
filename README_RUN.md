@@ -1,4 +1,4 @@
-[RU](https://github.com/dobrosketchkun/rukor/blob/main/README.md)  / ᚱᚢ
+[RU](https://github.com/dobrosketchkun/rurunes/blob/main/README.md)  / ᚱᚢ
 
 
 ᚫᛏᛟᛏ ᚱᛖᛈᛟᚴᛁᛏᛟᚱᛁᛡ ᛋᛟᛞᛖᚱᚸᛁᛏ ᛈᚱᛟᛞᛟᛚᚸᛖᚾᛁᛖ ᚫᛣᛋᛈᛖᚱᛁᛗᛖᚾᛏᛟᚹ ᛋ ᛈᛁᛋᚯᛗᛖᚾᚾᛟᛋᛏᚯᚣ ᚱᚢᛋᛋᛣᛟᚷᛟ ᛃᚴᛠᛣᚪ, ᛣᚪᛣ ᚾᚪᛈᚱᛁᛗᛖᚱ [rulat](https://github.com/dobrosketchkun/rulatwiki), [abominoto sans](https://github.com/dobrosketchkun/Abominoto-Sans) ᚪ ᛏᚪᛣᚸᛖ [rukor](https://github.com/dobrosketchkun/rukor).
